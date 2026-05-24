@@ -9,7 +9,7 @@
     "Guilty Gear Strive",
     "GGST",
     "Fighting Game Community (FGC)",
-    "Sol Badguy",
+    "Johnny",
     "Esports",
     "Torneos de Guilty Gear"
   ],
